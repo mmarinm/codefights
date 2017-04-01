@@ -19,7 +19,7 @@ minesweeper(matrix) = [[1, 2, 1],
 
 Check out the image below for better understanding:
 
-![minesweeper example](/example.png)
+![minesweeper example](example.png)
 
 
 **Input/Output**
